@@ -113,13 +113,3 @@
 <br>
 <br>
 <br>
-
-<div align='center'>
-
-## <b>Hope you had a blast...💥</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
