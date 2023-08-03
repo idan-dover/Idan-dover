@@ -10,8 +10,9 @@
 
 <br>
 
-- A passionate Self-taught Full-stack developer
+- A passionate Full-stack developer
 - Currently learning Web Development by Self
+- Learned Full-stack java course at John Bryce
 - Personal website [link](https://idan-dover.netlify.app/)
 - I’m currently open for a new job opportunity, this is [my resume](https://resume.io/r/75EZdzrFb)
 
