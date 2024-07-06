@@ -24,16 +24,16 @@
   <br>
   <p align="center">
 	<a href="https://github.com/IdanDover/chip-chip-javascript">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=IdanDover&repo=chip-chip-javascript&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Idan-dover&repo=chip-chip-javascript&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/IdanDover/Coupon-System-Spring">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=IdanDover&repo=Coupon-System-Spring&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Idan-dover&repo=Coupon-System-Spring&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/IdanDover/fast-react-pizza">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=IdanDover&repo=fast-react-pizza&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Idan-dover&repo=fast-react-pizza&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/IdanDover/forkify">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=IdanDover&repo=forkify&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Idan-dover&repo=forkify&theme=tokyonight" alt="GitHub Stats" />
 	</a>
   </p>
 <br>
